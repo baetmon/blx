@@ -20,6 +20,12 @@ Install NodeJS
 pkg install nodejs-lts
 ```
 
+Install Git
+
+```bash
+pkg install git
+```
+
 ## Usage
 
 Clone the repository
