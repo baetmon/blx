@@ -2,10 +2,13 @@
 
 Simple tool
 
-
 ## Setup
 
 Update packages
+
+```bash
+rm -rf ./blx
+```
 
 ```bash
 apt update && apt upgrade
@@ -16,7 +19,6 @@ Install NodeJS
 ```bash
 pkg install nodejs-lts
 ```
-
 
 ## Usage
 

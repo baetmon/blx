@@ -1,15 +1,15 @@
 {
   "/_not-found/page": "app/_not-found/page.js",
   "/api/auth/route": "app/api/auth/route.js",
-  "/api/game/claim/route": "app/api/game/claim/route.js",
   "/api/balance/route": "app/api/balance/route.js",
+  "/api/game/claim/route": "app/api/game/claim/route.js",
   "/api/game/play/route": "app/api/game/play/route.js",
-  "/api/me/route": "app/api/me/route.js",
-  "/api/refresh/route": "app/api/refresh/route.js",
-  "/api/test/route": "app/api/test/route.js",
   "/api/now/route": "app/api/now/route.js",
+  "/api/refresh/route": "app/api/refresh/route.js",
+  "/api/me/route": "app/api/me/route.js",
+  "/api/test/route": "app/api/test/route.js",
   "/favicon.ico/route": "app/favicon.ico/route.js",
-  "/profiles/page": "app/profiles/page.js",
   "/playground/page": "app/playground/page.js",
+  "/profiles/page": "app/profiles/page.js",
   "/page": "app/page.js"
 }
